@@ -1,0 +1,1 @@
+{"Hostname": "", "User" : "root", "Image": "demo/dummy:latest", "HostConfig": {"Binds": ["/test2:/test2"]}}
